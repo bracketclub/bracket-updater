@@ -1,10 +1,11 @@
 bracket-updater
 ===============
 
+_Note: This package is now located in the [bracketclub/bracketclub](https://github.com/bracketclub/bracketclub) monorepo._
+
 Update a tournament bracket after the completion of a game.
 
 [![NPM](https://nodei.co/npm/bracket-updater.png)](https://nodei.co/npm/bracket-updater/)
-[![Build Status](https://travis-ci.org/bracketclub/bracket-updater.png?branch=master)](https://travis-ci.org/bracketclub/bracket-updater)
 
 
 ## API / Usage
